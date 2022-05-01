@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi I'm Dani 👋 Frontend Developer
+I help companies and brands to build and improve their online presence through code.
 
 <!--
 **codingwithdani/codingwithdani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
